@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Lathesh S D 👋
 
-<!--
-**LATHESHSD/LATHESHSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MERN Stack Developer | React · React Native · TypeScript
 
-Here are some ideas to get you started:
+I build fast, responsive web and mobile apps with 
+AI-augmented development workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🔭 Currently building: My portfolio website  
+🌱 Learning: Next.js, System Design  
+💬 Ask me about: React, MERN, AI-assisted development  
+📫 Reach me: latheshijo19@gmail.com  
+💼 LinkedIn: [lathesh-s-d-949906237](https://linkedin.com/in/lathesh-s-d-949906237)
+
+---
+
+### 🛠 Tech Stack
+
+**Frontend:** React.js · React Native · TypeScript · JavaScript · Tailwind CSS  
+**Backend:** Node.js · Express.js · REST APIs · JWT  
+**Database:** MongoDB · MySQL · Firebase  
+**Tools:** Git · VS Code · Postman · GitHub Copilot · Cursor
+
+---
+
+### 📌 Featured Projects
+
+- 🏥 **Matru-Sneh** — Maternal health mobile app (React Native + TypeScript)
+- 🏠 **VMOOV** — Home services booking platform (React + Tailwind)
+- 🤖 **AI Workflow Showcase** — Coming soon
+
+---
+
+---
+
+### 📊 GitHub Stats
+
+![Lathesh's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=LATHESHDSD&show_icons=true&theme=dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=LATHESHDSD&theme=dark&hide_border=true)
