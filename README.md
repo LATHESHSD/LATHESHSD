@@ -35,7 +35,4 @@ AI-augmented development workflows.
 ---
 
 ### 📊 GitHub Stats
-
-![Lathesh's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=LATHESHDSD&show_icons=true&theme=dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=LATHESHDSD&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=LATHESHSD&theme=dark&hide_border=true)
